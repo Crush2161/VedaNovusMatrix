@@ -1,7 +1,7 @@
 from TusharMusic import app
 from TusharMusic.misc import SUDOERS
 from TusharMusic.utils.database import get_lang, is_maintenance
-from TusharMusic.misc import SUPPORT_GROUP
+from config import SUPPORT_GROUP
 from strings import get_string
 
 
